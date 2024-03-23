@@ -1,0 +1,6 @@
+12, 2, 1.00pm,PRESENT
+6, 6, 3,PRESENT
+3, 4, 5,PRESENT
+2, 3, 4,PRESENT
+MT2, 8AM-10AM, & C:/Users/Flavian/AppData/Local/Programs/Python/Python312/python.exe "c:/Users/Flavian/Desktop/Python-Classroom-main(Flavian)/Main menu.py",PRESENT
+MT2, 23128879, 8AM-10AM,PRESENT
